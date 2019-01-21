@@ -1,0 +1,65 @@
+header{
+	border: 5px solid white;
+	font-style: 12px;
+	text-align: center;
+	height:115px;
+	padding-top: 20px;
+	color:white;
+	background-color: black;
+}
+
+	
+
+
+body{
+	background-color: white;
+	
+}
+
+h2{
+	text-align: right;
+	text-underline-position: under;
+	color:white;
+}
+
+p{
+	text-align: right;
+	padding-right: 10px;
+	padding-top: 5px;
+	color: white; 
+
+}
+
+
+
+.login{
+	background-color: orange;
+	border: 2px solid black;
+	width: 500px;
+	margin: 10px;
+}
+
+.login h1{
+	color:#fff;
+	font-size: 50px;
+}
+
+.login input{
+	width: 300px;
+	height: 30px;
+
+}
+
+.login button{
+	width: 300px;
+	height: 30px;
+}
+
+footer{
+    background-color:black;
+    color:yellow;
+    clear:both;
+    text-align:center;
+   
+    	 	 
+}

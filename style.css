@@ -1,0 +1,128 @@
+body{
+	background-color: white;
+	background-image: url("fine.jpg")
+}
+
+header{
+	border: 5px solid white;
+	font-style: 12px;
+	text-align: center;
+	height:115px;
+	padding-top: 20px;
+	color:white;
+	background-color: black;
+}
+
+p{
+	color: green;
+}
+
+ h2 {
+	color: black;
+}
+
+#dy{
+	float:right;
+	padding-right: 5px;
+}
+
+#est{
+	float: left;
+	padding: 5px;
+}
+
+
+nav{
+	line-height:30px;
+    width:auto;
+    float:left;
+    padding:5px;
+    height:400px;	      
+}
+section{
+	padding: 15px;
+}
+
+
+ #position{
+ 	text-align: center;
+ }
+
+#right{
+    width:70%;
+    float:left;
+    padding:5px;
+    color:white;
+    background-color: cyan;
+    border:2px solid black;	 	 
+}
+
+
+
+footer{
+    background-color:black;
+    color:yellow;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    margin-top:495px;	 	 
+}
+
+#menu {
+position: fixed;
+width: 18%;
+}
+
+
+/* Helen's Aspect for registration */
+}
+.login input{
+	width: 300px;
+	height: 30px;
+}
+
+#dy{
+	float:right;
+	padding-right: 5px;
+
+}
+
+.login{
+	background-color: orange ;
+	border: 2px solid black;
+	width: 900px;
+	height: 750px;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+
+}
